@@ -212,6 +212,11 @@ ol {
 .section-our-team ul .our-team-list {
     background-color: #ffffff;
 }
+.container {
+    max-width: 1158px;
+    margin-left: auto;
+    margin-right: auto;
+}
 .section-main {
     max-width: 1158px;
     margin-left: auto;
