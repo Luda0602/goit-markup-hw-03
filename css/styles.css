@@ -202,6 +202,7 @@ ol {
 
 .section-main-title {
     background-color: #2e2f42;
+    
 }
 
 .section-our-team {
@@ -215,6 +216,7 @@ ol {
     max-width: 1158px;
     margin-left: auto;
     margin-right: auto;
+    padding: 120px 0;
 }
 .section-our-team,
 .section-main
